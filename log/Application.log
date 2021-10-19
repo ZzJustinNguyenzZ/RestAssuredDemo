@@ -1,0 +1,563 @@
+2021-10-18 23:21:12,104 INFO  - ****************************************************************************************
+2021-10-18 23:21:12,105 INFO  - ****************************************************************************************
+2021-10-18 23:21:12,105 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Store         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-18 23:21:12,105 INFO  - ****************************************************************************************
+2021-10-18 23:21:12,105 INFO  - ****************************************************************************************
+2021-10-18 23:21:12,108 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/stores
+2021-10-18 23:21:14,055 INFO  - Request Response is - {"data":{"stores":[{"id":"1474_1475","name":"Coop Bảo Lộc","phoneNumber":"098934321","address":"100 Trần Phú","ward":"Phường 2","district":"Thành Phố Bảo Lộc","city":"Tỉnh Lâm Đồng","latitude":11.5417326,"longitude":107.800428,"status":1,"confirmStatus":1,"merchantId":"270058","dailyOpenTime":3600,"dailyCloseTime":86400,"appId":"742","isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"801_1406","name":"Corp HVT","phoneNumber":"0935954858","address":"182 Le Dai Hanh","ward":"Ba Dinh","district":"Quận Ba Đình","city":"Thành Phố Hà Nội","latitude":85.05112877980659,"longitude":-180,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":32400,"dailyCloseTime":79200,"appId":"742","isClosed":true,"isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"1444_4878","name":"Cafe Ahamove","phoneNumber":"0936577130","address":"39/9 Huỳnh Văn Bánh","ward":"Phường 17","district":"Quận Phú Nhuận","city":"Thành Phố Hồ Chí Minh","latitude":10.794566,"longitude":106.681879,"status":1,"confirmStatus":1,"merchantId":"270058","dailyOpenTime":32400,"dailyCloseTime":86400,"appId":"742","isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"271_1433","name":"CH ở Yên Bái","phoneNumber":"473879482","address":"124-144B Lê Thánh Tôn","ward":"Phường Bến Thành","district":"Huyện Trạm Tấu","city":"Tỉnh Yên Bái","latitude":10.77366,"longitude":106.69819,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":3600,"dailyCloseTime":36000,"appId":"742","isClosed":true,"isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"271_1431","name":"CN ở Hà Nội","phoneNumber":"12345678","address":"124-144B Lê Thánh Tôn","ward":"Phường Bến Thành","district":"Quận Hoàng Mai","city":"Thành Phố Hà Nội","latitude":10.77366,"longitude":106.69819,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":3600,"dailyCloseTime":86400,"appId":"742","isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"1444_1445","name":"Corp Bình Tân","phoneNumber":"0909645343","address":"158 đường số 19","ward":"Bình Trị Đông","district":"Quận Bình Tân","city":"Thành Phố Hồ Chí Minh","latitude":10.757894499999999,"longitude":106.7452453,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":25200,"dailyCloseTime":79200,"appId":"742","isClosed":true,"isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600}]},"error":{"message":"Success"}}
+2021-10-18 23:21:14,066 INFO  - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2021-10-18 23:21:14,066 INFO  - XXXXXXXXXXXXXXXXXXXXXXX***********************************************XXXXXXXXXXXXXXXXXXXXXX
+2021-10-18 23:21:14,067 INFO  - XXXXXXXXXXXXXXXXXXXXXXX***********************************************XXXXXXXXXXXXXXXXXXXXXX
+2021-10-18 23:21:14,067 INFO  - X
+2021-10-18 23:21:14,067 INFO  - X
+2021-10-18 23:21:14,067 INFO  - X
+2021-10-18 23:21:14,067 INFO  - X
+2021-10-18 23:21:14,067 INFO  - X
+2021-10-18 23:23:26,773 INFO  - ****************************************************************************************
+2021-10-18 23:23:26,775 INFO  - ****************************************************************************************
+2021-10-18 23:23:26,775 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-18 23:23:26,775 INFO  - ****************************************************************************************
+2021-10-18 23:23:26,775 INFO  - ****************************************************************************************
+2021-10-18 23:23:26,777 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=1&page_index=1&page_size=50&store_id=1444_4878
+2021-10-18 23:23:29,503 INFO  - Request Response is - {"data":{"food_items":[{"id":"IT7421444_4878_2601492","name":"Thịt","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","price":"49900","discountPrice":"39900","sort":1},{"id":"IT7421444_4878_2601493","name":"Thịt Đùi heo","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","description":"- Giá Khuyến Mãi : 31,500đ\n- Chỉ áp dụng cho khách hàng có THẺ THÀNH VIÊN.","price":"59900","discountPrice":"31500","sort":2}],"page_info":{"page_number":1,"page_size":50,"total_records":2}},"error":{"message":"Success"}}
+2021-10-18 23:23:30,454 INFO  - ****************************************************************************************
+2021-10-18 23:23:30,454 INFO  - ****************************************************************************************
+2021-10-18 23:23:30,454 INFO  - $$$$$$$$$$$$$$$$$$$$$            Create Order         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-18 23:23:30,454 INFO  - ****************************************************************************************
+2021-10-18 23:23:30,454 INFO  - ****************************************************************************************
+2021-10-18 23:23:30,455 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/create-order
+2021-10-18 23:23:30,455 INFO  - Request Payload is - {
+  "items": [
+    {
+      "id": "IT7421444_4878_2601492",
+      "price": "39900",
+      "quantity": 10
+    }
+  ],
+  "appID": "742",
+  "address": {
+    "street": "363-365, 367 Hai Bà Trưng",
+    "wards": "Phường 09",
+    "district": "Quận 3",
+    "province": "Thành phố Hồ Chí Minh"
+  },
+  "name": "tamnguyen",
+  "phone": "84948357024",
+  "note": "",
+  "store_id": "1444_4878",
+  "orderType": "COD"
+}
+2021-10-18 23:23:30,632 INFO  - Request Response is - {"error":{"message":"Success"},"data":{"orderID":"742181021000000018"}}
+2021-10-18 23:23:31,052 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : null,
+  "category_ids" : null,
+  "image" : null,
+  "base_price" : 0,
+  "price" : 0,
+  "description" : null,
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : null,
+  "is_deleted" : false,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : null,
+  "section_id" : null,
+  "note" : null,
+  "gold_code" : null,
+  "limit_quantity" : 0,
+  "item_type" : null,
+  "sv" : 0
+}
+2021-10-18 23:23:31,058 INFO  - ****************************************************************************************
+2021-10-18 23:23:31,070 INFO  - ****************************************************************************************
+2021-10-18 23:23:31,070 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Store         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-18 23:23:31,070 INFO  - ****************************************************************************************
+2021-10-18 23:23:31,071 INFO  - ****************************************************************************************
+2021-10-18 23:23:31,072 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/stores
+2021-10-18 23:23:31,219 INFO  - Request Response is - {"data":{"stores":[{"id":"1444_4878","name":"Cafe Ahamove","phoneNumber":"0936577130","address":"39/9 Huỳnh Văn Bánh","ward":"Phường 17","district":"Quận Phú Nhuận","city":"Thành Phố Hồ Chí Minh","latitude":10.794566,"longitude":106.681879,"status":1,"confirmStatus":1,"merchantId":"270058","dailyOpenTime":32400,"dailyCloseTime":86400,"appId":"742","isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"271_1433","name":"CH ở Yên Bái","phoneNumber":"473879482","address":"124-144B Lê Thánh Tôn","ward":"Phường Bến Thành","district":"Huyện Trạm Tấu","city":"Tỉnh Yên Bái","latitude":10.77366,"longitude":106.69819,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":3600,"dailyCloseTime":36000,"appId":"742","isClosed":true,"isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"271_1431","name":"CN ở Hà Nội","phoneNumber":"12345678","address":"124-144B Lê Thánh Tôn","ward":"Phường Bến Thành","district":"Quận Hoàng Mai","city":"Thành Phố Hà Nội","latitude":10.77366,"longitude":106.69819,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":3600,"dailyCloseTime":86400,"appId":"742","isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"1444_1445","name":"Corp Bình Tân","phoneNumber":"0909645343","address":"158 đường số 19","ward":"Bình Trị Đông","district":"Quận Bình Tân","city":"Thành Phố Hồ Chí Minh","latitude":10.757894499999999,"longitude":106.7452453,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":25200,"dailyCloseTime":79200,"appId":"742","isClosed":true,"isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"801_1406","name":"Corp HVT","phoneNumber":"0935954858","address":"182 Le Dai Hanh","ward":"Ba Dinh","district":"Quận Ba Đình","city":"Thành Phố Hà Nội","latitude":85.05112877980659,"longitude":-180,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":32400,"dailyCloseTime":79200,"appId":"742","isClosed":true,"isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"1474_1475","name":"Coop Bảo Lộc","phoneNumber":"098934321","address":"100 Trần Phú","ward":"Phường 2","district":"Thành Phố Bảo Lộc","city":"Tỉnh Lâm Đồng","latitude":11.5417326,"longitude":107.800428,"status":1,"confirmStatus":1,"merchantId":"270058","dailyOpenTime":3600,"dailyCloseTime":86400,"appId":"742","isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600}]},"error":{"message":"Success"}}
+2021-10-18 23:23:31,230 INFO  - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2021-10-18 23:23:31,230 INFO  - XXXXXXXXXXXXXXXXXXXXXXX***********************************************XXXXXXXXXXXXXXXXXXXXXX
+2021-10-18 23:23:31,230 INFO  - XXXXXXXXXXXXXXXXXXXXXXX***********************************************XXXXXXXXXXXXXXXXXXXXXX
+2021-10-18 23:23:31,230 INFO  - X
+2021-10-18 23:23:31,231 INFO  - X
+2021-10-18 23:23:31,231 INFO  - X
+2021-10-18 23:23:31,231 INFO  - X
+2021-10-18 23:23:31,231 INFO  - X
+2021-10-18 23:24:36,865 INFO  - ****************************************************************************************
+2021-10-18 23:24:36,865 INFO  - ****************************************************************************************
+2021-10-18 23:24:36,865 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-18 23:24:36,865 INFO  - ****************************************************************************************
+2021-10-18 23:24:36,865 INFO  - ****************************************************************************************
+2021-10-18 23:24:36,867 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=1&page_index=1&page_size=50&store_id=1444_4878
+2021-10-18 23:24:39,211 INFO  - Request Response is - {"data":{"food_items":[{"id":"IT7421444_4878_2601492","name":"Thịt","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","price":"49900","discountPrice":"39900","sort":1},{"id":"IT7421444_4878_2601493","name":"Thịt Đùi heo","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","description":"- Giá Khuyến Mãi : 31,500đ\n- Chỉ áp dụng cho khách hàng có THẺ THÀNH VIÊN.","price":"59900","discountPrice":"31500","sort":2}],"page_info":{"page_number":1,"page_size":50,"total_records":2}},"error":{"message":"Success"}}
+2021-10-18 23:24:39,901 INFO  - ****************************************************************************************
+2021-10-18 23:24:39,902 INFO  - ****************************************************************************************
+2021-10-18 23:24:39,902 INFO  - $$$$$$$$$$$$$$$$$$$$$            Create Order         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-18 23:24:39,902 INFO  - ****************************************************************************************
+2021-10-18 23:24:39,902 INFO  - ****************************************************************************************
+2021-10-18 23:24:39,903 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/create-order
+2021-10-18 23:24:39,903 INFO  - Request Payload is - {
+  "items": [
+    {
+      "id": "IT7421444_4878_2601492",
+      "price": "39900",
+      "quantity": 10
+    }
+  ],
+  "appID": "742",
+  "address": {
+    "street": "363-365, 367 Hai Bà Trưng",
+    "wards": "Phường 09",
+    "district": "Quận 3",
+    "province": "Thành phố Hồ Chí Minh"
+  },
+  "name": "tamnguyen",
+  "phone": "84948357024",
+  "note": "",
+  "store_id": "1444_4878",
+  "orderType": "COD"
+}
+2021-10-18 23:24:40,072 INFO  - Request Response is - {"error":{"message":"Success"},"data":{"orderID":"742181021000000019"}}
+2021-10-18 23:24:40,422 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : null,
+  "image" : null,
+  "base_price" : 0,
+  "price" : 0,
+  "description" : null,
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : null,
+  "is_deleted" : false,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : null,
+  "section_id" : null,
+  "note" : null,
+  "gold_code" : null,
+  "limit_quantity" : 0,
+  "item_type" : null,
+  "sv" : 0
+}
+2021-10-18 23:24:40,437 INFO  - ****************************************************************************************
+2021-10-18 23:24:40,437 INFO  - ****************************************************************************************
+2021-10-18 23:24:40,437 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Store         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-18 23:24:40,437 INFO  - ****************************************************************************************
+2021-10-18 23:24:40,437 INFO  - ****************************************************************************************
+2021-10-18 23:24:40,439 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/stores
+2021-10-18 23:24:40,559 INFO  - Request Response is - {"data":{"stores":[{"id":"1444_4878","name":"Cafe Ahamove","phoneNumber":"0936577130","address":"39/9 Huỳnh Văn Bánh","ward":"Phường 17","district":"Quận Phú Nhuận","city":"Thành Phố Hồ Chí Minh","latitude":10.794566,"longitude":106.681879,"status":1,"confirmStatus":1,"merchantId":"270058","dailyOpenTime":32400,"dailyCloseTime":86400,"appId":"742","isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"271_1433","name":"CH ở Yên Bái","phoneNumber":"473879482","address":"124-144B Lê Thánh Tôn","ward":"Phường Bến Thành","district":"Huyện Trạm Tấu","city":"Tỉnh Yên Bái","latitude":10.77366,"longitude":106.69819,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":3600,"dailyCloseTime":36000,"appId":"742","isClosed":true,"isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"271_1431","name":"CN ở Hà Nội","phoneNumber":"12345678","address":"124-144B Lê Thánh Tôn","ward":"Phường Bến Thành","district":"Quận Hoàng Mai","city":"Thành Phố Hà Nội","latitude":10.77366,"longitude":106.69819,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":3600,"dailyCloseTime":86400,"appId":"742","isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"1444_1445","name":"Corp Bình Tân","phoneNumber":"0909645343","address":"158 đường số 19","ward":"Bình Trị Đông","district":"Quận Bình Tân","city":"Thành Phố Hồ Chí Minh","latitude":10.757894499999999,"longitude":106.7452453,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":25200,"dailyCloseTime":79200,"appId":"742","isClosed":true,"isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"801_1406","name":"Corp HVT","phoneNumber":"0935954858","address":"182 Le Dai Hanh","ward":"Ba Dinh","district":"Quận Ba Đình","city":"Thành Phố Hà Nội","latitude":85.05112877980659,"longitude":-180,"status":1,"confirmStatus":2,"merchantId":"270058","dailyOpenTime":32400,"dailyCloseTime":79200,"appId":"742","isClosed":true,"isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600},{"id":"1474_1475","name":"Coop Bảo Lộc","phoneNumber":"098934321","address":"100 Trần Phú","ward":"Phường 2","district":"Thành Phố Bảo Lộc","city":"Tỉnh Lâm Đồng","latitude":11.5417326,"longitude":107.800428,"status":1,"confirmStatus":1,"merchantId":"270058","dailyOpenTime":3600,"dailyCloseTime":86400,"appId":"742","isPickup":true,"isDelivery":true,"startPickupTime":28800,"endPickupTime":32400,"pickupPeriod":3600}]},"error":{"message":"Success"}}
+2021-10-18 23:24:40,562 INFO  - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2021-10-18 23:24:40,562 INFO  - XXXXXXXXXXXXXXXXXXXXXXX***********************************************XXXXXXXXXXXXXXXXXXXXXX
+2021-10-18 23:24:40,562 INFO  - XXXXXXXXXXXXXXXXXXXXXXX***********************************************XXXXXXXXXXXXXXXXXXXXXX
+2021-10-18 23:24:40,562 INFO  - X
+2021-10-18 23:24:40,562 INFO  - X
+2021-10-18 23:24:40,562 INFO  - X
+2021-10-18 23:24:40,562 INFO  - X
+2021-10-18 23:24:40,562 INFO  - X
+2021-10-18 23:27:47,774 INFO  - ****************************************************************************************
+2021-10-18 23:27:47,774 INFO  - ****************************************************************************************
+2021-10-18 23:27:47,774 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-18 23:27:47,774 INFO  - ****************************************************************************************
+2021-10-18 23:27:47,775 INFO  - ****************************************************************************************
+2021-10-18 23:27:48,079 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : null,
+  "image" : null,
+  "base_price" : 0,
+  "price" : 0,
+  "description" : null,
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : null,
+  "is_deleted" : false,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : null,
+  "section_id" : null,
+  "note" : null,
+  "gold_code" : null,
+  "limit_quantity" : 0,
+  "item_type" : null,
+  "sv" : 0
+}
+2021-10-18 23:47:40,519 INFO  - ****************************************************************************************
+2021-10-18 23:47:40,521 INFO  - ****************************************************************************************
+2021-10-18 23:47:40,521 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-18 23:47:40,521 INFO  - ****************************************************************************************
+2021-10-18 23:47:40,521 INFO  - ****************************************************************************************
+2021-10-18 23:47:40,873 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 00:00:48,554 INFO  - ****************************************************************************************
+2021-10-19 00:00:48,555 INFO  - ****************************************************************************************
+2021-10-19 00:00:48,555 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-19 00:00:48,555 INFO  - ****************************************************************************************
+2021-10-19 00:00:48,555 INFO  - ****************************************************************************************
+2021-10-19 00:00:48,974 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 00:00:48,977 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-19 00:00:48,977 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 00:00:52,468 INFO  - Request Response is - {"error":"Phiên đăng nhập hết hạn hoặc không tồn tại","code":16,"message":"Phiên đăng nhập hết hạn hoặc không tồn tại"}
+2021-10-19 10:00:39,991 INFO  - ****************************************************************************************
+2021-10-19 10:00:39,992 INFO  - ****************************************************************************************
+2021-10-19 10:00:39,992 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-19 10:00:39,993 INFO  - ****************************************************************************************
+2021-10-19 10:00:39,993 INFO  - ****************************************************************************************
+2021-10-19 10:00:40,578 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 10:00:40,611 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-19 10:00:40,611 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 10:00:47,114 INFO  - Request Response is - {"error":"Phiên đăng nhập hết hạn hoặc không tồn tại","code":16,"message":"Phiên đăng nhập hết hạn hoặc không tồn tại"}
+2021-10-19 10:02:16,957 INFO  - ****************************************************************************************
+2021-10-19 10:02:16,959 INFO  - ****************************************************************************************
+2021-10-19 10:02:16,959 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-19 10:02:16,959 INFO  - ****************************************************************************************
+2021-10-19 10:02:16,959 INFO  - ****************************************************************************************
+2021-10-19 10:02:17,236 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 10:02:17,239 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-19 10:02:17,239 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 10:02:19,412 INFO  - Request Response is - {"error":"Phiên đăng nhập hết hạn hoặc không tồn tại","code":16,"message":"Phiên đăng nhập hết hạn hoặc không tồn tại"}
+2021-10-19 10:03:47,725 INFO  - ****************************************************************************************
+2021-10-19 10:03:47,728 INFO  - ****************************************************************************************
+2021-10-19 10:03:47,728 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-19 10:03:47,733 INFO  - ****************************************************************************************
+2021-10-19 10:03:47,734 INFO  - ****************************************************************************************
+2021-10-19 10:03:48,149 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 10:03:48,157 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-19 10:03:48,166 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 10:03:50,250 INFO  - Request Response is - {}
+2021-10-19 10:04:40,240 INFO  - ****************************************************************************************
+2021-10-19 10:04:40,248 INFO  - ****************************************************************************************
+2021-10-19 10:04:40,248 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-19 10:04:40,248 INFO  - ****************************************************************************************
+2021-10-19 10:04:40,248 INFO  - ****************************************************************************************
+2021-10-19 10:04:40,533 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 10:04:40,536 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-19 10:04:40,536 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 10:04:42,557 INFO  - Request Response is - {}
