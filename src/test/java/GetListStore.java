@@ -5,12 +5,11 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import io.restassured.response.Response;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-import pojo.Items;
-import utility.Authn;
-import utility.CreateUrl;
-import utility.ExtentReportListener;
-import utility.RestFWLogger;
+import pojo.groupItems.GroupItems;
+import pojo.groupItems.Item;
+import utility.*;
 
+import java.util.ArrayList;
 import java.util.Collections;
 
 @Listeners(ExtentReportListener.class)
@@ -53,48 +52,66 @@ public class GetListStore extends ExtentReportListener {
 //
 //    }
 
-    @Test
+    @Test(priority = 1)
     public void importItems() throws JsonProcessingException {
 
         RestFWLogger.initLogger();
         RestFWLogger.startTestCase("Get List Items");
 
-        Items requestPayload = new Items();
+        Item item = new Item();
+        item.setId("1");
+        item.setName("Thịt");
+        item.setBarcode("2601492");
+        item.setSort(0);
+        item.setCategoryRefIds(Collections.singletonList("1"));
+        item.setCategoryIds(Collections.singletonList(""));
+        item.setImage("https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png");
+        item.setBasePrice(49000);
+        item.setPrice(39000);
+        item.setDescription("");
+        item.setStock(100);
+        item.setStatus(1);
+        item.setIsDeleted(false);
+        item.setAppId(appID);
+        item.setSequenceId(1);
+        item.setStoreId(storeID);
+        item.setSectionId("");
+        item.setNote("");
+        item.setGoldCode("00952732");
+        item.setLimitQuantity(99);
+        item.setItemType(0);
+        item.setSv(1);
 
-        requestPayload.setApp_id(appID);
-        requestPayload.setId("");
-        requestPayload.setName("Thịt");
-        requestPayload.setBarcode("2601492");
-        requestPayload.setSort(1);
-        requestPayload.setCategory_ref_ids(Collections.singletonList("1"));
-        requestPayload.setCategory_ids(Collections.singletonList(""));
-        requestPayload.setImage("https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png");
-        requestPayload.setBase_price("49900");
-        requestPayload.setPrice("39900");
-        requestPayload.setDescription("");
-        requestPayload.setStock(0);
-        requestPayload.setStatus(1);
-        requestPayload.setIs_deleted(false);
-        requestPayload.setApp_id("742");
-        requestPayload.setSection_id("1");
-        requestPayload.setStore_id(storeID);
-        requestPayload.setSection_id("");
-        requestPayload.setNote("");
-        requestPayload.setGold_code("00952732");
-        requestPayload.setLimit_quantity(0);
-        requestPayload.setItem_type(0);
-        requestPayload.setSv(1);
-        requestPayload.setIs_update(true);
-        requestPayload.setStore_id(storeID);
+        ArrayList list = new ArrayList();
+        list.add(item);
+
+        GroupItems example = new GroupItems();
+        example.setAppId(appID);
+        example.setItems(list);
+        example.setIsUpdate(false);
+        example.setStoreId(storeID);
+
+        objectMapper = new ObjectMapper();
 
 
         objectMapper = new ObjectMapper();
-        String payload = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(requestPayload);
+        String payload = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(example);
         RestFWLogger.info("Request Payload - " + payload);
-        String endPoint = CreateUrl.getBaseURI("/v2/item-mgmt/bigc/import-item");
-        response = BaseClass.postRequest(endPoint,payload,bearer_Token);
-        APIVerification.responseCodeValidation(response,200);
+        String endPoint = CreateUrl.getBaseURI(Route.ImportItems());
+        response = BaseClass.postRequest(endPoint, payload, bearer_Token);
+        APIVerification.responseCodeValidation(response, 200);
+
+
     }
+
+    @Test(priority = 2)
+    public void getListItems() {
+        objectMapper = new ObjectMapper();
+        String endPoint = CreateUrl.getBaseURI(Route.GetListItems(appID, storeID));
+        response = BaseClass.getRequest(endPoint, cookie);
+        APIVerification.responseCodeValidation(response, 200);
+    }
+
 //    @Test
 //    public void GetWeatherDetails() {
 //        // Specify the base URL to the RESTful web service

@@ -561,3 +561,2543 @@
   "is_update" : true
 }
 2021-10-19 10:04:42,557 INFO  - Request Response is - {}
+2021-10-19 21:52:37,632 INFO  - ****************************************************************************************
+2021-10-19 21:52:37,633 INFO  - ****************************************************************************************
+2021-10-19 21:52:37,633 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-19 21:52:37,633 INFO  - ****************************************************************************************
+2021-10-19 21:52:37,633 INFO  - ****************************************************************************************
+2021-10-19 21:52:37,865 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 21:52:37,868 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-19 21:52:37,868 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 21:52:39,641 INFO  - Request Response is - {}
+2021-10-19 21:53:04,408 INFO  - ****************************************************************************************
+2021-10-19 21:53:04,409 INFO  - ****************************************************************************************
+2021-10-19 21:53:04,409 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-19 21:53:04,410 INFO  - ****************************************************************************************
+2021-10-19 21:53:04,410 INFO  - ****************************************************************************************
+2021-10-19 21:53:04,653 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 21:53:04,659 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-19 21:53:04,659 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-19 21:53:06,742 INFO  - Request Response is - {}
+2021-10-20 21:14:53,045 INFO  - ****************************************************************************************
+2021-10-20 21:14:53,046 INFO  - ****************************************************************************************
+2021-10-20 21:14:53,046 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-20 21:14:53,047 INFO  - ****************************************************************************************
+2021-10-20 21:14:53,048 INFO  - ****************************************************************************************
+2021-10-20 21:14:53,394 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-20 21:14:53,399 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-20 21:14:53,399 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-20 21:14:57,277 INFO  - Request Response is - {}
+2021-10-20 21:15:18,650 INFO  - ****************************************************************************************
+2021-10-20 21:15:18,650 INFO  - ****************************************************************************************
+2021-10-20 21:15:18,650 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-20 21:15:18,650 INFO  - ****************************************************************************************
+2021-10-20 21:15:18,650 INFO  - ****************************************************************************************
+2021-10-20 21:15:18,789 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-20 21:15:18,791 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-20 21:15:18,791 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-20 21:15:20,102 INFO  - Request Response is - {}
+2021-10-21 20:19:13,448 INFO  - ****************************************************************************************
+2021-10-21 20:19:13,449 INFO  - ****************************************************************************************
+2021-10-21 20:19:13,449 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 20:19:13,449 INFO  - ****************************************************************************************
+2021-10-21 20:19:13,449 INFO  - ****************************************************************************************
+2021-10-21 20:19:13,831 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:19:13,834 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 20:19:13,834 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:19:15,694 INFO  - Request Response is - {}
+2021-10-21 20:21:42,564 INFO  - ****************************************************************************************
+2021-10-21 20:21:42,565 INFO  - ****************************************************************************************
+2021-10-21 20:21:42,565 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 20:21:42,565 INFO  - ****************************************************************************************
+2021-10-21 20:21:42,565 INFO  - ****************************************************************************************
+2021-10-21 20:21:42,806 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:21:42,808 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 20:21:42,813 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:21:44,504 INFO  - Request Response is - {}
+2021-10-21 20:22:07,517 INFO  - ****************************************************************************************
+2021-10-21 20:22:07,520 INFO  - ****************************************************************************************
+2021-10-21 20:22:07,520 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 20:22:07,520 INFO  - ****************************************************************************************
+2021-10-21 20:22:07,520 INFO  - ****************************************************************************************
+2021-10-21 20:22:07,797 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:22:07,799 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 20:22:07,799 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:22:09,759 INFO  - Request Response is - {}
+2021-10-21 20:22:24,881 INFO  - ****************************************************************************************
+2021-10-21 20:22:24,882 INFO  - ****************************************************************************************
+2021-10-21 20:22:24,882 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 20:22:24,882 INFO  - ****************************************************************************************
+2021-10-21 20:22:24,882 INFO  - ****************************************************************************************
+2021-10-21 20:22:25,090 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:22:25,092 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 20:22:25,097 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:22:27,307 INFO  - Request Response is - {}
+2021-10-21 20:22:46,816 INFO  - ****************************************************************************************
+2021-10-21 20:22:46,818 INFO  - ****************************************************************************************
+2021-10-21 20:22:46,818 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 20:22:46,818 INFO  - ****************************************************************************************
+2021-10-21 20:22:46,818 INFO  - ****************************************************************************************
+2021-10-21 20:22:47,120 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:22:47,122 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 20:22:47,122 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:22:49,121 INFO  - Request Response is - {}
+2021-10-21 20:23:10,478 INFO  - ****************************************************************************************
+2021-10-21 20:23:10,479 INFO  - ****************************************************************************************
+2021-10-21 20:23:10,479 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 20:23:10,479 INFO  - ****************************************************************************************
+2021-10-21 20:23:10,479 INFO  - ****************************************************************************************
+2021-10-21 20:23:10,752 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:23:10,754 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 20:23:10,759 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:23:12,672 INFO  - Request Response is - {}
+2021-10-21 20:24:43,490 INFO  - ****************************************************************************************
+2021-10-21 20:24:43,491 INFO  - ****************************************************************************************
+2021-10-21 20:24:43,492 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 20:24:43,492 INFO  - ****************************************************************************************
+2021-10-21 20:24:43,492 INFO  - ****************************************************************************************
+2021-10-21 20:25:03,547 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:25:03,548 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 20:25:03,553 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:25:05,546 INFO  - Request Response is - {}
+2021-10-21 20:25:28,199 INFO  - ****************************************************************************************
+2021-10-21 20:25:28,200 INFO  - ****************************************************************************************
+2021-10-21 20:25:28,200 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 20:25:28,200 INFO  - ****************************************************************************************
+2021-10-21 20:25:28,200 INFO  - ****************************************************************************************
+2021-10-21 20:25:28,439 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:25:28,443 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 20:25:28,443 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 20:25:29,993 INFO  - Request Response is - {}
+2021-10-21 21:08:12,172 INFO  - ****************************************************************************************
+2021-10-21 21:08:12,173 INFO  - ****************************************************************************************
+2021-10-21 21:08:12,173 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:08:12,173 INFO  - ****************************************************************************************
+2021-10-21 21:08:12,173 INFO  - ****************************************************************************************
+2021-10-21 21:08:12,780 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:08:12,785 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:08:12,785 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:08:14,862 INFO  - Request Response is - {}
+2021-10-21 21:08:45,773 INFO  - ****************************************************************************************
+2021-10-21 21:08:45,774 INFO  - ****************************************************************************************
+2021-10-21 21:08:45,778 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:08:45,779 INFO  - ****************************************************************************************
+2021-10-21 21:08:45,779 INFO  - ****************************************************************************************
+2021-10-21 21:08:46,091 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:09:42,816 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:09:42,817 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:09:46,492 INFO  - ****************************************************************************************
+2021-10-21 21:09:46,493 INFO  - ****************************************************************************************
+2021-10-21 21:09:46,493 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:09:46,493 INFO  - ****************************************************************************************
+2021-10-21 21:09:46,493 INFO  - ****************************************************************************************
+2021-10-21 21:09:46,790 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:09:46,792 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:09:46,792 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:09:49,116 INFO  - Request Response is - {}
+2021-10-21 21:10:32,327 INFO  - ****************************************************************************************
+2021-10-21 21:10:32,328 INFO  - ****************************************************************************************
+2021-10-21 21:10:32,328 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:10:32,328 INFO  - ****************************************************************************************
+2021-10-21 21:10:32,328 INFO  - ****************************************************************************************
+2021-10-21 21:10:32,653 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:10:32,655 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:10:32,660 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:10:34,298 INFO  - Request Response is - {}
+2021-10-21 21:12:08,047 INFO  - ****************************************************************************************
+2021-10-21 21:12:08,048 INFO  - ****************************************************************************************
+2021-10-21 21:12:08,048 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:12:08,048 INFO  - ****************************************************************************************
+2021-10-21 21:12:08,048 INFO  - ****************************************************************************************
+2021-10-21 21:12:08,376 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:12:08,379 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:12:08,379 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:12:10,143 INFO  - Request Response is - {}
+2021-10-21 21:14:37,173 INFO  - ****************************************************************************************
+2021-10-21 21:14:37,174 INFO  - ****************************************************************************************
+2021-10-21 21:14:37,175 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:14:37,175 INFO  - ****************************************************************************************
+2021-10-21 21:14:37,175 INFO  - ****************************************************************************************
+2021-10-21 21:15:49,503 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:15:49,521 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:15:49,521 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:15:52,738 INFO  - Request Response is - {}
+2021-10-21 21:16:51,800 INFO  - ****************************************************************************************
+2021-10-21 21:16:51,801 INFO  - ****************************************************************************************
+2021-10-21 21:16:51,801 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:16:51,802 INFO  - ****************************************************************************************
+2021-10-21 21:16:51,802 INFO  - ****************************************************************************************
+2021-10-21 21:17:19,455 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:17:19,468 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:17:19,469 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:17:24,912 INFO  - ****************************************************************************************
+2021-10-21 21:17:24,913 INFO  - ****************************************************************************************
+2021-10-21 21:17:24,913 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:17:24,913 INFO  - ****************************************************************************************
+2021-10-21 21:17:24,913 INFO  - ****************************************************************************************
+2021-10-21 21:17:25,297 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:17:25,305 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:17:25,307 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:17:28,106 INFO  - Request Response is - {}
+2021-10-21 21:17:46,943 INFO  - ****************************************************************************************
+2021-10-21 21:17:46,944 INFO  - ****************************************************************************************
+2021-10-21 21:17:46,944 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:17:46,944 INFO  - ****************************************************************************************
+2021-10-21 21:17:46,944 INFO  - ****************************************************************************************
+2021-10-21 21:17:47,646 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:17:47,649 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:17:47,650 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:17:52,257 INFO  - Request Response is - {}
+2021-10-21 21:18:28,765 INFO  - ****************************************************************************************
+2021-10-21 21:18:28,766 INFO  - ****************************************************************************************
+2021-10-21 21:18:28,766 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:18:28,766 INFO  - ****************************************************************************************
+2021-10-21 21:18:28,766 INFO  - ****************************************************************************************
+2021-10-21 21:18:29,410 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:18:29,412 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:18:29,413 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:18:33,104 INFO  - Request Response is - {}
+2021-10-21 21:19:08,924 INFO  - ****************************************************************************************
+2021-10-21 21:19:08,925 INFO  - ****************************************************************************************
+2021-10-21 21:19:08,925 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:19:08,925 INFO  - ****************************************************************************************
+2021-10-21 21:19:08,925 INFO  - ****************************************************************************************
+2021-10-21 21:19:09,396 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:19:09,399 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:19:09,401 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:19:11,755 INFO  - Request Response is - {}
+2021-10-21 21:37:03,863 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878
+2021-10-21 21:37:08,002 INFO  - Request Response is - {"data":{"food_items":[{"id":"IT7421444_4878_2601492","name":"Thịt","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","price":"49900","discountPrice":"49900","sort":1,"limitQuantity":99},{"id":"IT7421444_4878_2601493","name":"Thịt Đùi heo","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","description":"- Giá Khuyến Mãi : 31,500đ\n- Chỉ áp dụng cho khách hàng có THẺ THÀNH VIÊN.","price":"49900","discountPrice":"31500","sort":2,"limitQuantity":99}],"page_info":{"page_number":1,"page_size":50,"total_records":2}},"error":{"message":"Success"}}
+2021-10-21 21:37:08,014 INFO  - ****************************************************************************************
+2021-10-21 21:37:08,014 INFO  - ****************************************************************************************
+2021-10-21 21:37:08,015 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:37:08,015 INFO  - ****************************************************************************************
+2021-10-21 21:37:08,015 INFO  - ****************************************************************************************
+2021-10-21 21:37:08,105 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:37:08,106 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:37:08,107 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:37:08,289 INFO  - Request Response is - {}
+2021-10-21 21:38:04,735 INFO  - ****************************************************************************************
+2021-10-21 21:38:04,736 INFO  - ****************************************************************************************
+2021-10-21 21:38:04,736 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:38:04,736 INFO  - ****************************************************************************************
+2021-10-21 21:38:04,736 INFO  - ****************************************************************************************
+2021-10-21 21:38:05,026 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:38:05,028 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:38:05,033 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:38:07,602 INFO  - Request Response is - {}
+2021-10-21 21:38:07,618 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878
+2021-10-21 21:38:08,017 INFO  - Request Response is - {"data":{"food_items":[{"id":"IT7421444_4878_2601492","name":"Thịt","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","price":"49900","discountPrice":"49900","sort":1,"limitQuantity":99},{"id":"IT7421444_4878_2601493","name":"Thịt Đùi heo","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","description":"- Giá Khuyến Mãi : 31,500đ\n- Chỉ áp dụng cho khách hàng có THẺ THÀNH VIÊN.","price":"49900","discountPrice":"31500","sort":2,"limitQuantity":99}],"page_info":{"page_number":1,"page_size":50,"total_records":2}},"error":{"message":"Success"}}
+2021-10-21 21:40:15,018 INFO  - ****************************************************************************************
+2021-10-21 21:40:15,019 INFO  - ****************************************************************************************
+2021-10-21 21:40:15,019 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:40:15,042 INFO  - ****************************************************************************************
+2021-10-21 21:40:15,044 INFO  - ****************************************************************************************
+2021-10-21 21:40:15,661 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:40:15,664 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:40:15,664 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:40:19,316 INFO  - Request Response is - {}
+2021-10-21 21:41:40,540 INFO  - ****************************************************************************************
+2021-10-21 21:41:40,542 INFO  - ****************************************************************************************
+2021-10-21 21:41:40,544 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:41:40,545 INFO  - ****************************************************************************************
+2021-10-21 21:41:40,545 INFO  - ****************************************************************************************
+2021-10-21 21:41:41,204 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:41:41,208 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:41:41,215 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:41:45,184 INFO  - Request Response is - {}
+2021-10-21 21:42:01,597 INFO  - ****************************************************************************************
+2021-10-21 21:42:01,598 INFO  - ****************************************************************************************
+2021-10-21 21:42:01,598 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:42:01,598 INFO  - ****************************************************************************************
+2021-10-21 21:42:01,598 INFO  - ****************************************************************************************
+2021-10-21 21:42:02,136 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:42:02,145 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:42:02,146 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:42:05,240 INFO  - Request Response is - {}
+2021-10-21 21:42:05,252 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_487811
+2021-10-21 21:42:05,492 INFO  - Request Response is - {"data":{"page_info":{"page_number":1,"page_size":50}},"error":{"message":"Success"}}
+2021-10-21 21:42:36,031 INFO  - ****************************************************************************************
+2021-10-21 21:42:36,032 INFO  - ****************************************************************************************
+2021-10-21 21:42:36,032 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:42:36,032 INFO  - ****************************************************************************************
+2021-10-21 21:42:36,033 INFO  - ****************************************************************************************
+2021-10-21 21:42:36,745 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:42:36,756 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:42:36,756 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:42:39,544 INFO  - Request Response is - {}
+2021-10-21 21:42:39,572 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878c
+2021-10-21 21:42:40,246 INFO  - Request Response is - {"data":{"page_info":{"page_number":1,"page_size":50}},"error":{"message":"Success"}}
+2021-10-21 21:44:28,432 INFO  - ****************************************************************************************
+2021-10-21 21:44:28,433 INFO  - ****************************************************************************************
+2021-10-21 21:44:28,433 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 21:44:28,433 INFO  - ****************************************************************************************
+2021-10-21 21:44:28,433 INFO  - ****************************************************************************************
+2021-10-21 21:53:49,402 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 21:53:49,420 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 21:53:49,420 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 23:35:35,678 INFO  - ****************************************************************************************
+2021-10-21 23:35:35,680 INFO  - ****************************************************************************************
+2021-10-21 23:35:35,681 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 23:35:35,681 INFO  - ****************************************************************************************
+2021-10-21 23:35:35,681 INFO  - ****************************************************************************************
+2021-10-21 23:35:36,056 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 23:35:36,060 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 23:35:36,062 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 23:35:38,118 INFO  - Request Response is - {}
+2021-10-21 23:35:38,131 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878c
+2021-10-21 23:35:38,336 INFO  - Request Response is - {"data":{"page_info":{"page_number":1,"page_size":50}},"error":{"message":"Success"}}
+2021-10-21 23:36:35,907 INFO  - ****************************************************************************************
+2021-10-21 23:36:35,908 INFO  - ****************************************************************************************
+2021-10-21 23:36:35,908 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-21 23:36:35,908 INFO  - ****************************************************************************************
+2021-10-21 23:36:35,908 INFO  - ****************************************************************************************
+2021-10-21 23:36:36,267 INFO  - Request Payload - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-21 23:36:36,272 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-21 23:36:36,272 INFO  - Request Payload is - {
+  "id" : "",
+  "name" : "Thịt",
+  "barcode" : "2601492",
+  "sort" : 1,
+  "category_ref_ids" : [ "1" ],
+  "category_ids" : [ "" ],
+  "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+  "base_price" : "49900",
+  "price" : "39900",
+  "description" : "",
+  "stock" : 0,
+  "created_by" : null,
+  "created_time" : null,
+  "modified_by" : null,
+  "modified_time" : null,
+  "status" : 1,
+  "is_deleted" : true,
+  "app_id" : "742",
+  "sequence_id" : 0,
+  "store_id" : "1444_4878",
+  "section_id" : "",
+  "note" : "",
+  "gold_code" : "00952732",
+  "limit_quantity" : 0,
+  "item_type" : 0,
+  "sv" : 1,
+  "is_update" : true
+}
+2021-10-22 01:34:32,717 INFO  - ****************************************************************************************
+2021-10-22 01:34:32,718 INFO  - ****************************************************************************************
+2021-10-22 01:34:32,718 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-22 01:34:32,718 INFO  - ****************************************************************************************
+2021-10-22 01:34:32,719 INFO  - ****************************************************************************************
+2021-10-22 01:34:32,986 INFO  - Request Payload - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : "",
+    "createdTime" : "",
+    "modifiedBy" : "",
+    "modifiedTime" : "",
+    "status" : 1,
+    "isDeleted" : true,
+    "appId" : "742",
+    "sequenceId" : 0,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 0,
+    "itemType" : 0,
+    "sv" : 1
+  } ],
+  "isUpdate" : true,
+  "storeId" : "1444_4878"
+}
+2021-10-22 01:34:32,989 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-22 01:34:32,990 INFO  - Request Payload is - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : "",
+    "createdTime" : "",
+    "modifiedBy" : "",
+    "modifiedTime" : "",
+    "status" : 1,
+    "isDeleted" : true,
+    "appId" : "742",
+    "sequenceId" : 0,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 0,
+    "itemType" : 0,
+    "sv" : 1
+  } ],
+  "isUpdate" : true,
+  "storeId" : "1444_4878"
+}
+2021-10-22 01:34:34,824 INFO  - Request Response is - {"error":"bad Timestamp: parsing time \"\" as \"2006-01-02T15:04:05.999999999Z07:00\": cannot parse \"\" as \"2006\"","code":3,"message":"bad Timestamp: parsing time \"\" as \"2006-01-02T15:04:05.999999999Z07:00\": cannot parse \"\" as \"2006\""}
+2021-10-22 01:34:34,841 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878c
+2021-10-22 01:34:35,034 INFO  - Request Response is - {"data":{"page_info":{"page_number":1,"page_size":50}},"error":{"message":"Success"}}
+2021-10-22 01:39:37,963 INFO  - ****************************************************************************************
+2021-10-22 01:39:37,964 INFO  - ****************************************************************************************
+2021-10-22 01:39:37,964 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-22 01:39:37,964 INFO  - ****************************************************************************************
+2021-10-22 01:39:37,964 INFO  - ****************************************************************************************
+2021-10-22 01:39:38,377 INFO  - Request Payload - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : "",
+    "createdTime" : "",
+    "modifiedBy" : "",
+    "modifiedTime" : "",
+    "status" : 1,
+    "isDeleted" : true,
+    "appId" : "742",
+    "sequenceId" : 0,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 0,
+    "itemType" : "IT_NONE",
+    "sv" : 1
+  } ],
+  "isUpdate" : true,
+  "storeId" : "1444_4878"
+}
+2021-10-22 01:39:38,380 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-22 01:39:38,380 INFO  - Request Payload is - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : "",
+    "createdTime" : "",
+    "modifiedBy" : "",
+    "modifiedTime" : "",
+    "status" : 1,
+    "isDeleted" : true,
+    "appId" : "742",
+    "sequenceId" : 0,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 0,
+    "itemType" : "IT_NONE",
+    "sv" : 1
+  } ],
+  "isUpdate" : true,
+  "storeId" : "1444_4878"
+}
+2021-10-22 01:39:41,173 INFO  - Request Response is - {"error":"bad Timestamp: parsing time \"\" as \"2006-01-02T15:04:05.999999999Z07:00\": cannot parse \"\" as \"2006\"","code":3,"message":"bad Timestamp: parsing time \"\" as \"2006-01-02T15:04:05.999999999Z07:00\": cannot parse \"\" as \"2006\""}
+2021-10-22 01:39:41,427 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878c
+2021-10-22 01:39:41,809 INFO  - Request Response is - {"data":{"page_info":{"page_number":1,"page_size":50}},"error":{"message":"Success"}}
+2021-10-22 01:43:27,953 INFO  - ****************************************************************************************
+2021-10-22 01:43:27,954 INFO  - ****************************************************************************************
+2021-10-22 01:43:27,954 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-22 01:43:27,954 INFO  - ****************************************************************************************
+2021-10-22 01:43:27,954 INFO  - ****************************************************************************************
+2021-10-22 01:43:28,260 INFO  - Request Payload - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : "",
+    "createdTime" : "",
+    "modifiedBy" : "",
+    "modifiedTime" : "",
+    "status" : 1,
+    "isDeleted" : false,
+    "appId" : "742",
+    "sequenceId" : 0,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 0,
+    "itemType" : "IT_NONE",
+    "sv" : 1
+  } ],
+  "isUpdate" : false,
+  "storeId" : "1444_4878"
+}
+2021-10-22 01:43:28,266 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-22 01:43:28,271 INFO  - Request Payload is - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : "",
+    "createdTime" : "",
+    "modifiedBy" : "",
+    "modifiedTime" : "",
+    "status" : 1,
+    "isDeleted" : false,
+    "appId" : "742",
+    "sequenceId" : 0,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 0,
+    "itemType" : "IT_NONE",
+    "sv" : 1
+  } ],
+  "isUpdate" : false,
+  "storeId" : "1444_4878"
+}
+2021-10-22 01:43:30,563 INFO  - Request Response is - {"error":"bad Timestamp: parsing time \"\" as \"2006-01-02T15:04:05.999999999Z07:00\": cannot parse \"\" as \"2006\"","code":3,"message":"bad Timestamp: parsing time \"\" as \"2006-01-02T15:04:05.999999999Z07:00\": cannot parse \"\" as \"2006\""}
+2021-10-22 01:43:30,574 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878c
+2021-10-22 01:43:30,752 INFO  - Request Response is - {"data":{"page_info":{"page_number":1,"page_size":50}},"error":{"message":"Success"}}
+2021-10-22 01:47:01,365 INFO  - ****************************************************************************************
+2021-10-22 01:47:01,366 INFO  - ****************************************************************************************
+2021-10-22 01:47:01,366 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-22 01:47:01,366 INFO  - ****************************************************************************************
+2021-10-22 01:47:01,366 INFO  - ****************************************************************************************
+2021-10-22 01:47:01,848 INFO  - Request Payload - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : null,
+    "createdTime" : null,
+    "modifiedBy" : null,
+    "modifiedTime" : null,
+    "status" : 1,
+    "isDeleted" : false,
+    "appId" : "742",
+    "sequenceId" : 1,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 99,
+    "itemType" : 0,
+    "sv" : 1
+  } ],
+  "isUpdate" : false,
+  "storeId" : "1444_4878"
+}
+2021-10-22 01:47:01,860 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-22 01:47:01,861 INFO  - Request Payload is - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : null,
+    "createdTime" : null,
+    "modifiedBy" : null,
+    "modifiedTime" : null,
+    "status" : 1,
+    "isDeleted" : false,
+    "appId" : "742",
+    "sequenceId" : 1,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 99,
+    "itemType" : 0,
+    "sv" : 1
+  } ],
+  "isUpdate" : false,
+  "storeId" : "1444_4878"
+}
+2021-10-22 01:47:04,448 INFO  - Request Response is - {}
+2021-10-22 01:47:04,455 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878c
+2021-10-22 01:47:04,647 INFO  - Request Response is - {"data":{"page_info":{"page_number":1,"page_size":50}},"error":{"message":"Success"}}
+2021-10-22 08:40:23,995 INFO  - ****************************************************************************************
+2021-10-22 08:40:23,996 INFO  - ****************************************************************************************
+2021-10-22 08:40:23,996 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-22 08:40:23,997 INFO  - ****************************************************************************************
+2021-10-22 08:40:23,997 INFO  - ****************************************************************************************
+2021-10-22 08:40:24,378 INFO  - Request Payload - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : null,
+    "createdTime" : null,
+    "modifiedBy" : null,
+    "modifiedTime" : null,
+    "status" : 1,
+    "isDeleted" : false,
+    "appId" : "742",
+    "sequenceId" : 1,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 99,
+    "itemType" : 0,
+    "sv" : 1
+  } ],
+  "isUpdate" : false,
+  "storeId" : "1444_4878"
+}
+2021-10-22 08:40:24,381 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-22 08:40:24,381 INFO  - Request Payload is - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : null,
+    "createdTime" : null,
+    "modifiedBy" : null,
+    "modifiedTime" : null,
+    "status" : 1,
+    "isDeleted" : false,
+    "appId" : "742",
+    "sequenceId" : 1,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 99,
+    "itemType" : 0,
+    "sv" : 1
+  } ],
+  "isUpdate" : false,
+  "storeId" : "1444_4878"
+}
+2021-10-22 08:40:26,856 INFO  - Request Response is - {}
+2021-10-22 08:40:26,868 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878c
+2021-10-22 08:40:27,050 INFO  - Request Response is - {"data":{"page_info":{"page_number":1,"page_size":50}},"error":{"message":"Success"}}
+2021-10-22 08:41:30,600 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878
+2021-10-22 08:41:32,437 INFO  - Request Response is - {"data":{"food_items":[{"id":"IT7421444_4878_2601492","name":"Thịt","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","price":"49000","discountPrice":"39000","sort":1,"limitQuantity":99}],"page_info":{"page_number":1,"page_size":50,"total_records":1}},"error":{"message":"Success"}}
+2021-10-22 22:26:51,863 INFO  - ****************************************************************************************
+2021-10-22 22:26:51,866 INFO  - ****************************************************************************************
+2021-10-22 22:26:51,866 INFO  - $$$$$$$$$$$$$$$$$$$$$            Get List Items         $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-10-22 22:26:51,866 INFO  - ****************************************************************************************
+2021-10-22 22:26:51,866 INFO  - ****************************************************************************************
+2021-10-22 22:26:52,133 INFO  - Request Payload - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : null,
+    "createdTime" : null,
+    "modifiedBy" : null,
+    "modifiedTime" : null,
+    "status" : 1,
+    "isDeleted" : false,
+    "appId" : "742",
+    "sequenceId" : 1,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 99,
+    "itemType" : 0,
+    "sv" : 1
+  } ],
+  "isUpdate" : false,
+  "storeId" : "1444_4878"
+}
+2021-10-22 22:26:52,135 INFO  - Request URI is - https://sbapimep.zalopay.vn/v2/item-mgmt/bigc/import-item
+2021-10-22 22:26:52,135 INFO  - Request Payload is - {
+  "appId" : "742",
+  "items" : [ {
+    "id" : "1",
+    "name" : "Thịt",
+    "barcode" : "2601492",
+    "sort" : 0,
+    "categoryRefIds" : [ "1" ],
+    "categoryIds" : [ "" ],
+    "image" : "https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png",
+    "basePrice" : 49000,
+    "price" : 39000,
+    "description" : "",
+    "stock" : 100,
+    "createdBy" : null,
+    "createdTime" : null,
+    "modifiedBy" : null,
+    "modifiedTime" : null,
+    "status" : 1,
+    "isDeleted" : false,
+    "appId" : "742",
+    "sequenceId" : 1,
+    "storeId" : "1444_4878",
+    "sectionId" : "",
+    "note" : "",
+    "goldCode" : "00952732",
+    "limitQuantity" : 99,
+    "itemType" : 0,
+    "sv" : 1
+  } ],
+  "isUpdate" : false,
+  "storeId" : "1444_4878"
+}
+2021-10-22 22:26:54,471 INFO  - Request Response is - {}
+2021-10-22 22:26:54,480 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878
+2021-10-22 22:26:54,686 INFO  - Request Response is - {"data":{"food_items":[{"id":"IT7421444_4878_2601492","name":"Thịt","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","price":"49000","discountPrice":"39000","sort":1,"limitQuantity":99}],"page_info":{"page_number":1,"page_size":50,"total_records":1}},"error":{"message":"Success"}}
+2021-10-22 22:29:22,493 INFO  - Request URI is - https://sbapimep.zalopay.vn/v1/oa-shop/742/food-items?promotion_status=3&page_index=1&page_size=50&store_id=1444_4878
+2021-10-22 22:29:24,286 INFO  - Request Response is - {"data":{"food_items":[{"id":"IT7421444_4878_2601492","name":"Thịt","image":"https://sb-staticmep.zalopay.vn/sb/742/742_991-2601492_1000_2601492_00952732-1.png","price":"49000","discountPrice":"39000","sort":1,"limitQuantity":99}],"page_info":{"page_number":1,"page_size":50,"total_records":1}},"error":{"message":"Success"}}
